@@ -1,0 +1,13 @@
+C:\Users\agust\source\repos\DSOO\TP_1\bin\Debug\netcoreapp3.1\TP_1.exe
+C:\Users\agust\source\repos\DSOO\TP_1\bin\Debug\netcoreapp3.1\TP_1.deps.json
+C:\Users\agust\source\repos\DSOO\TP_1\bin\Debug\netcoreapp3.1\TP_1.runtimeconfig.json
+C:\Users\agust\source\repos\DSOO\TP_1\bin\Debug\netcoreapp3.1\TP_1.runtimeconfig.dev.json
+C:\Users\agust\source\repos\DSOO\TP_1\bin\Debug\netcoreapp3.1\TP_1.dll
+C:\Users\agust\source\repos\DSOO\TP_1\bin\Debug\netcoreapp3.1\TP_1.pdb
+C:\Users\agust\source\repos\DSOO\TP_1\obj\Debug\netcoreapp3.1\TP_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agust\source\repos\DSOO\TP_1\obj\Debug\netcoreapp3.1\TP_1.AssemblyInfoInputs.cache
+C:\Users\agust\source\repos\DSOO\TP_1\obj\Debug\netcoreapp3.1\TP_1.AssemblyInfo.cs
+C:\Users\agust\source\repos\DSOO\TP_1\obj\Debug\netcoreapp3.1\TP_1.csproj.CoreCompileInputs.cache
+C:\Users\agust\source\repos\DSOO\TP_1\obj\Debug\netcoreapp3.1\TP_1.dll
+C:\Users\agust\source\repos\DSOO\TP_1\obj\Debug\netcoreapp3.1\TP_1.pdb
+C:\Users\agust\source\repos\DSOO\TP_1\obj\Debug\netcoreapp3.1\TP_1.genruntimeconfig.cache
